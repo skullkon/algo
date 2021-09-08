@@ -1,0 +1,8 @@
+*/Debug
+.vs
+/DataStructures/StackQueueList/Algos/Debug
+*.sln
+/DataStructures/StackQueueList/Algos/Algos/Debug
+*.vcxproj.user
+*.vcxproj.filters
+*.vcxproj
